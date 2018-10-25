@@ -12,3 +12,6 @@ Contains two modules, `recursion.py` and `sorting.py` under the `edsa` package.
   - `bubble_sort(items)`: implements bubble sort algorithm on items
   - `merge_sort(items)`: implements merge sort algorithm on items
   - `quick_sort(items)`: implements quicksort algorithm on items
+
+## Installing this package from GitHub
+`pip install git+https://github.com/James-Leslie/edsa.git`
